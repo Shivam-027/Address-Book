@@ -6,4 +6,4 @@ DOD:
 show that you can insert and delete entries from your data structures.
 show that you can traverse your data structures. Depending on your chosen representation, you might need to copy references into another data structure and sort it to get different orderings. show that you can search your data structures.
 
-In this project, I used linked lists in this project. #main.Java is the main, or meant to run a Java file, and #node.Java is used to implement the linked list and #addressbook.Java has many functions, such as add, delete, and update. 
+In this project, I used linked lists in this project. #main.Java is the main, or meant to run a Java file, and #node.Java is used to implement the linked list and #addressbook.Java has many functions, such as add, delete, and update and info.txt is used to store data.
