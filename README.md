@@ -1,4 +1,15 @@
 # Address-Book
+## _Used Languages is:_
+
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+___
+
+## _Features_
+
+- Corona chat bot
+- File input
+- String
 
 Question:
 Write a primitive address book program. Give it the following functions:Add a name and phone number entry, Delete an entry. List the directory in alphabetical order by last name, first name. Lookup an entry by last name, phone number
