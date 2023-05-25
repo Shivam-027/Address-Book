@@ -1,4 +1,6 @@
 # Address-Book
+Address Book Program is a versatile and intuitive software solution designed to manage and organize contact information effectively. It provides a user-friendly interface for storing, updating, and searching for contacts, enabling users to conveniently maintain their address book and easily access essential contact details.
+
 ## _Used Languages is:_
 
 ![Image Description](https://www.oracle.com/a/ocom/img/cb71-java-logo.png)
